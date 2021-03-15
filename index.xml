@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabu Blog</title>
+    <link>https://gabu-b.github.io/</link>
+    <description>Recent content on Gabu Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Mar 2021 14:59:14 -0300</lastBuildDate><atom:link href="https://gabu-b.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://gabu-b.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 15 Mar 2021 14:59:14 -0300</pubDate>
+      
+      <guid>https://gabu-b.github.io/posts/my-first-post/</guid>
+      <description>Esse e um teste
+public static void main(String[]args) { System.out.println(&amp;#34;This is a print statement&amp;#34;); } </description>
+    </item>
+    
+  </channel>
+</rss>
